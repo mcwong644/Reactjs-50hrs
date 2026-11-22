@@ -20,4 +20,13 @@ git push -u origin main
 
 =======================
 git pull origin main
-zzz
+
+Add email and name to git config
+=================================
+Reactjs-50hrs>git config --global user.email "mcwong644@gmail.com"
+Reactjs-50hrs>git config --global user.name "mcwong644"
+
+To clone the repository, use the following command:
+===================================================
+from d:\xampp\htdocs
+git clone https://github.com/mcwong644/Reactjs-50hrs.git

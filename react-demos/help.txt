@@ -13,5 +13,11 @@ git remote add origin https://github.com/mcwong644/Reactjs-50hrs.git
 git branch -M main
 git push -u origin main
 
+in Reactjs-50hrs folder
+=======================
 git commit -m "2nd"  
 git push -u origin main  
+
+=======================
+git pull origin main
+zzz
